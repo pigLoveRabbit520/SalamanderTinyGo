@@ -1,0 +1,3 @@
+package: github.com/salamander-mh/SalamanderTinyGo
+import:
+- package: github.com/julienschmidt/httprouter
